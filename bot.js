@@ -36,7 +36,7 @@ function clean(text) {
         return text;
 }
 
-const prefix = ""; // البرفكس حق البوت
+const prefix = "$"; // البرفكس حق البوت
 const token = "";// التوكن حقك
 
 client.on("ready", () => {
